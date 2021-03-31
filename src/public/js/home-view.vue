@@ -17,10 +17,7 @@
 							>A Fake Artist Goes to New York</a
 						>.
 					</p>
-					<p>
-						Contribute:
-						<a href="https://github.com/kcgidw/fao">Github</a>
-					</p>
+
 					<p>
 						Enjoy the game? Send a tip:
 						<a href="https://ko-fi.com/krackocloud">Ko-fi</a>
